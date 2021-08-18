@@ -1,6 +1,6 @@
 <p aling= "center"> Olá, seja bem vindo(a)!</p>
 
-- 👋 Hi, I’m @JacqueVolotao, tenho 31 anos, sou de Santos - SP
+- 👋 I’m @JacqueVolotao, tenho 31 anos, sou de Santos - SP
 - 👀 I’m interested in: aprender coisas novas.
 - 🌱 I’m currently learning: Google Script
 - 💞️ I’m looking to collaborate on: Front-End e Back-End
